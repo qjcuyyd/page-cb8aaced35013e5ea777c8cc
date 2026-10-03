@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fa8ffe92b8c83af6a4bb9ea8",
+  "owner": "qjcuyyd",
+  "repo": "page-cb8aaced35013e5ea777c8cc",
+  "title": "RexCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb8aaced35013e5ea777c8cc",
+      "a": "RexCloud",
+      "b": "",
+      "entity": "RexCloud",
+      "brand": "RexCloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d993bbd800396eff8ebea0eaaac9db33b9ed9a9066e65ad76918061f54fdc11",
+      "content": {
+        "keyword1": "RexCloud",
+        "keyword2": "",
+        "primary_entity": "RexCloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "RexCloud提供稳定高速的机场订阅服务与VPN网络加速，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景，助您安全畅连全球网络。",
+          "AI_DESCRIPTION": "RexCloud提供稳定高速的机场订阅服务与VPN网络加速，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景，助您安全畅连全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#FFF8F0;color:#3D322C;font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:17px;line-height:1.75}a{color:#C44536;text-decoration:none}header{background:#FFFDFB;border-bottom:3px solid #E07A5F;padding:12px 16px}.nav{display:flex;flex-wrap:wrap;gap:8px 16px;max-width:1100px;margin:0 auto;align-items:center}.brand{font-weight:700;font-size:1.35rem;color:#C44536;margin-right:auto}.nav a{padding:6px 4px;font-size:0.95rem}main{max-width:1100px;margin:0 auto;padding:24px 16px 48px}h1{font-size:1.85rem;line-height:1.3;color:#2B211C;margin:0 0 16px}h2{font-size:1.45rem;color:#C44536;margin:36px 0 14px;padding-bottom:6px;border-bottom:2px solid #F2D6C9}h3{font-size:1.15rem;color:#5C4033;margin:20px 0 8px}p,li{margin:0 0 12px}.lead{font-size:1.05rem;color:#4A3B34}.grid{display:grid;grid-template-columns:1fr;gap:16px}@media(min-width:720px){.grid-2{grid-template-columns:1fr 1fr}.grid-3{grid-template-columns:1fr 1fr 1fr}.cols{display:grid;grid-template-columns:1.15fr 0.85fr;gap:28px;align-items:start}}.card{background:#FFFDFB;border:1px solid #F0D8CC;border-radius:10px;padding:18px 16px}.card.featured{border:2px solid #E07A5F;background:#FFF5F0}.price{font-size:1.4rem;font-weight:700;color:#C44536}.annual{font-size:0.9rem;color:#7A5C50}.feat{padding-left:18px;margin:8px 0 0}.btn{display:inline-block;background:#E07A5F;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;margin-top:10px}details{background:#FFFDFB;border:1px solid #F0D8CC;border-radius:8px;padding:10px 14px;margin:10px 0}summary{font-weight:600;color:#5C4033}details p{margin:10px 0 4px}.tag{display:inline-block;background:#FDE8E0;color:#C44536;font-size:0.8rem;padding:2px 8px;border-radius:99px;margin-left:6px}footer{background:#3D322C;color:#F5EBE4;padding:32px 16px;font-size:0.92rem}footer a{color:#F2C4B3}.foot-wrap{max-width:1100px;margin:0 auto}.foot-grid{display:grid;grid-template-columns:1fr;gap:20px}@media(min-width:720px){.foot-grid{grid-template-columns:1fr 1fr 1fr}}ul.plain{list-style:none;padding:0;margin:0}ul.plain li{margin:0 0 6px}.adbox{background:#FDE8E0;color:#3D322C;border:1px dashed #E07A5F;padding:14px;border-radius:8px;margin:24px 0}ol.steps{padding-left:22px}.note{background:#FFFDFB;border-left:4px solid #E07A5F;padding:12px 14px;margin:16px 0}</style><header><div class=\"nav\"><span class=\"brand\">RexCloud</span><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#clients\">客户端选择</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></div></header><main><h1>RexCloud 高速机场官网：VPN 梯子加速与多端客户端下载</h1><p class=\"lead\">RexCloud 官方网站面向需要稳定跨境连接的用户，提供机场订阅、网络加速与多端客户端导入指引。页面集中说明套餐额度、节点用途、客户端选择步骤以及常见配置问题，方便您在购买前完成对照。</p><div class=\"adbox\">官方提示：请仅通过 RexCloud 官网获取订阅地址。客户端请使用各系统正版应用，避免来路不明的安装包。</div><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><div><p>RexCloud 是面向个人与团队的订阅制机场服务，核心能力是把经过筛选的国际线路，以标准订阅的方式交给主流代理客户端使用。用户完成套餐开通后，即可在 Clash、Shadowrocket、v2rayN 等工具中导入节点，用于网页访问、流媒体播放、远程协作与游戏加速。</p><p>与临时分享或来源不清的节点不同，RexCloud 坚持官方直营账户、按月重置流量、按设备数限制并发。旗舰线路引入 IPLC 专线思路，降低游戏与会议场景的绕路时延；团队版额外提供高带宽节点与路由定制，适合工作室多终端同时在线。</p><p>我们把「能连上」和「能看懂怎么连」放在同等位置：官网同时给出套餐对照、客户端选择与逐步操作说明，减少第一次使用机场订阅时的试错成本。</p></div><div class=\"card\"><h3>官方身份与服务边界</h3><p>RexCloud 由网络运维团队直接维护节点与工单通道，不授权第三方倒卖订阅。本站提供套餐说明、导入方法和故障排查，不托管可执行安装文件，以降低客户端被篡改的风险。</p><p>当前公开套餐为基础版、旗舰版与团队版，分别覆盖轻度浏览、流媒体/游戏以及多设备协作。年付价格在月价基础上给出固定优惠，便于长期使用规划。</p><a class=\"btn\" href=\"#plans\">查看套餐对照</a></div></div></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>三档套餐按流量、设备数和线路能力区分。价格以人民币计价，年付为 12 个月一次性结算。请按实际同时在线设备与使用强度选择，避免把团队并发需求压在基础版上。</p><div class=\"grid grid-3\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#guide\">按此档开始配置</a></article><article class=\"card featured\"><h3>旗舰版 <span class=\"tag\">主推</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#clients\">去选客户端</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#guide\">查看团队导入流程</a></article></div><p>流量按自然月重置；达到额度后通常降速而非立刻停用，具体以账户中心提示为准。设备数按同时在线会话统计，同一账号在手机、电脑、平板间切换时请先断开闲置会话。</p></section><section id=\"clients\"><h2>客户端选择与官方下载指引</h2><p>RexCloud 采用通用订阅格式，重点不在「再做一个专属 App」，而在帮您选对已经广泛使用的客户端，再把官网复制的订阅链接导入。以下按系统给出推荐组合，下载请走应用商店或开发者页面，导入步骤见后文操作说明。</p><div class=\"grid grid-2\"><article class=\"card\"><h3>Windows / macOS</h3><p>Windows 常用 Clash Verge 或 v2rayN，适合需要规则分流、系统代理和托盘快捷切换的桌面场景。macOS 可使用 ClashX.Meta 或 Surge，前者接近开源生态，后者规则与网卡模式更完整。</p><p>桌面端建议开启「系统代理 + TUN」中的一种，并避免多个代理软件同时占用 7890 等端口。导入后先选择香港或日本节点做延迟测试，再按应用分流。</p><a class=\"btn\" href=\"#guide\">查看桌面导入步骤</a></article><article class=\"card\"><h3>iOS / Android / 路由器</h3><p>iOS 推荐 Shadowrocket 或 Stash，在 App Store 购买正版后粘贴订阅即可。Android 推荐 Clash Meta for Android 或 Surfboard，注意授权 VPN 与自启动权限。家庭网关可在 OpenWrt 上使用 OpenClash，把订阅给全屋设备复用。</p><p>移动端请关闭「全局」后再为浏览器、视频与会议 App 单独放行，减少耗电。路由器方案适合团队版多终端，但仍需遵守设备数上限。</p><a class=\"btn\" href=\"#faq\">客户端相关问答</a></article></div><div class=\"note\"><strong>官方下载原则：</strong>RexCloud 官网不提供安装包直链，以降低捆绑与篡改风险。请在各系统官方渠道搜索上述客户端名称，安装完成后回到本站账户中心复制订阅 URL。若页面要求扫描来源不明二维码，请停止操作。</div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid grid-2\"><div><h3>流媒体与资讯访问</h3><p>旗舰版与团队版节点针对常见流媒体做原生解锁方向优化，适合追剧、直播和海外新闻站点。播放前选择标注流媒体的线路，并在客户端开启对应区域规则，避免把所有流量都走同一节点造成卡顿。</p></div><div><h3>游戏与实时会议</h3><p>需要低抖动时优先使用带 IPLC 说明的游戏优化节点，常见于旗舰版。对局或开会前在客户端查看当前延迟，必要时切换至日本、新加坡或香港方向。团队会议建议固定一条线路，减少 DNS 来回切换。</p></div><div><h3>远程办公与多设备协作</h3><p>设计师、跨境电商与远程研发常把笔记本、手机和一台备用机同时在线。基础版 3 台额度适合个人，工作室请直接评估团队版的 20 台并发与定制路由，把办公域名走稳定线路、下载走高带宽节点。</p></div><div><h3>学术检索与开发调试</h3><p>文档站点、代码托管与软件源在晚高峰更容易拥塞。可在客户端为学术域名单独分流，并预留部分流量给大文件拉取。开发者调试 API 时，记住关闭系统代理再测本地服务，以免把 127.0.0.1 也送出境外。</p></div></div></section><section id=\"nodes\"><h2>节点方向与加速表现</h2><p>RexCloud 节点池覆盖香港、台湾、日本、新加坡、美国西岸及部分欧洲入口。普通线路满足网页与即时通讯；旗舰版增加 IPLC/IEPL 思路的内网专线，缩短游戏与会议的绕路。实际速度仍取决于本地宽带质量、运营商高峰和您选择的出口城市，因此官网以「可切换、可工单」为运维目标，而不是承诺某一固定测速数字。</p><p>建议把常用规则写成「国内直连、海外代理」。流媒体走解锁节点，下载与系统更新可走高带宽 VIP 节点（团队版）。若某一方向连续失败，先更新订阅再更换协议或端口，仍异常再提交工单，避免反复重装客户端。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>从开通到连上的五步</h3><ol class=\"steps\"><li>在套餐区确认流量与设备数，完成官网订阅。年付与月付仅影响结算周期，导入方式相同。</li><li>登录会员中心复制订阅链接。链接属于账号凭证，不要发到群组或截图公开。</li><li>按上一节完成客户端官方下载与安装，授予 VPN 或代理权限。</li><li>在客户端选择「从 URL 更新」或「添加订阅」，粘贴链接并更新节点列表。</li><li>挑选延迟较低的入口，开启系统代理或 TUN 模式，用浏览器访问目标站点验证。需要分流时再导入规则。</li></ol><h3>日常维护</h3><p>节点有变动时，在客户端执行一次「更新订阅」即可，一般不必重新安装。更换套餐后额度立即按新档生效，订阅 URL 多数情况下保持不变。若设备数超限，先在已登录的终端断开，再在新设备连接。</p><p>遇到证书或端口报错，优先核对系统时间是否准确，再尝试切换 TCP/UDP 或备用入口。移动网络与家宽表现可能不同，可分别测试后再固定规则。</p><a class=\"btn\" href=\"#faq\">仍有问题请看 FAQ</a></section><section id=\"faq\"><h2>常见问题</h2><details><summary>RexCloud 机场是什么？和普通 VPN 有何不同？</summary><p>RexCloud 是订阅制机场：您购买套餐后获得可导入主流客户端的节点集合，而不是绑定单一 App 的封闭 VPN。好处是可按系统自由选择 Clash、Shadowrocket、v2rayN 等工具，并用规则实现分流。它仍然承担梯子与网络加速的角色，但配置权在用户自己的客户端里。</p></details><details><summary>客户端应该去哪里下载才算官方？</summary><p>请在 Apple App Store、Google Play 或对应项目的开发者发布页搜索客户端名称后安装。RexCloud 官网只提供订阅与说明，不直接分发安装包。任何要求先加群、先下载来路不明压缩包才能「激活」的流程，都与本站官方下载指引不符。</p></details><details><summary>三个套餐该怎么选？流量用完会怎样？</summary><p>轻度浏览与 3 台以内设备选基础版；需要原生流媒体、游戏 IPLC 和 5 台在线选旗舰版；工作室或家庭多终端选团队版。流量按自然月重置，达到额度后通常降速并在账户中心提示，而不是在毫无预告的情况下清空账号。</p></details><details><summary>能否解锁流媒体和常见 AI、协作工具？</summary><p>旗舰版与团队版强调全节点原生流媒体解锁，并覆盖常见协作与 AI 站点的访问需求。基础版提供基础解锁，效果随线路变化。播放前请选择对应地区节点，并避免把下载任务与 4K 播放挤在同一条普通线路上。</p></details><details><summary>延迟不稳定或连不上时，先做什么？</summary><p>按顺序：确认订阅已更新、系统时间正确、没有两个代理程序抢端口，然后更换同区域其他节点或协议。家宽高峰可改用日本/新加坡入口。若仅某一网站失败，检查分流规则是否把国内 CDN 误送到境外。仍失败再走旗舰/团队工单，并附上客户端日志中的时间与节点名。</p></details><details><summary>如何续费、升级以及给团队分发？</summary><p>在官网账户中心续费或升级即可，年付折扣以套餐页标价为准。升级后设备数与流量立即按新套餐计算。团队版可由客户经理协助规划路由；请不要把主订阅链接直接群发，可按客户端支持情况使用子配置或分设备导入，以免超出会话上限。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-wrap\"><div class=\"foot-grid\"><div><h2>广告</h2><p>RexCloud 旗舰版面向流媒体与游戏加速用户，年付可锁定全年额度；团队版适合需要高带宽节点与专属对接的工作室。推广合作仅通过官网公示渠道进行。</p></div><div><h2>友情链接</h2><ul class=\"plain\"><li><a href=\"#\">客户端规则入门</a></li><li><a href=\"#\">分流与DNS说明</a></li><li><a href=\"#\">跨境办公网络清单</a></li><li><a href=\"#\">路由器订阅实践</a></li></ul></div><div><h2>网站地图</h2><ul class=\"plain\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">机场订阅套餐</a></li><li><a href=\"#clients\">客户端选择与下载</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div></div><p>RexCloud 官方网站 · 机场订阅与 VPN 网络加速服务 · 客户端请经正版渠道获取</p></div></footer>",
+          "hash": "f138b7a19aca9acabc246ba3997ab6725a3110ce870256211ff3ab7669e72776",
+          "seo": {
+            "title": "RexCloud 官网 | 高速机场VPN梯子网络加速与客户端下载",
+            "keywords": "RexCloud,RexCloud机场,RexCloud VPN,机场订阅,VPN加速器,梯子网络加速,客户端下载,官网下载,Clash,Shadowrocket",
+            "description": "RexCloud提供稳定高速的机场订阅服务与VPN网络加速，支持多端客户端官方下载，覆盖流媒体解锁、游戏加速与跨境办公场景，助您安全畅连全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wdxwyqx.cn",
+    "host": "p-1f148553d9.wdxwyqx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "wdxwyqx.cn",
+      "url": "https://wdxwyqx.cn/",
+      "label": "飞机TNT",
+      "apex": "wdxwyqx.cn",
+      "kind": null,
+      "identity": "ybepvqmnk/page-95475f9696c3ed046e632845"
+    },
+    {
+      "host": "5342q1.cn",
+      "url": "https://5342q1.cn/",
+      "label": "RexCloud",
+      "apex": "5342q1.cn",
+      "kind": null,
+      "identity": "ceuytahcswgz/page-db84a9201363df1980af3bab"
+    },
+    {
+      "host": "kmhluh.cn",
+      "url": "https://kmhluh.cn/",
+      "label": "RexCloud",
+      "apex": "kmhluh.cn",
+      "kind": null,
+      "identity": "ypshgcvcb/page-763ea11aaa4e917dde96197a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "57088b4b5d3261537dee008c1628b9da3c0b0dbd9346e56e72329f68c38a5c9b",
+    "sitemap.xml": "feecd799faa0c8a42cc0fd98f0608d012e7afce6d9168c973d7ea12c5c26077f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7bdaeb72ac006d3d9de96cccc548629166ae45e8e54ed28a57393f8b61f52be",
+    "robots.txt": "b4f35103883c220a9e5f80167b9fbff227977db983a85e62d38b5791d4f0c3d1",
+    "ddc68157ba81041497f8347bdf40712b.txt": "829f348523f40ae33833ebd72d5beebbac33c8456f221ea93a48623533b28f8f"
+  },
+  "revision": "19b5762092ef0d86e95274464ad416181a608be7fe384aaea96f484db9c9cd42"
+}
